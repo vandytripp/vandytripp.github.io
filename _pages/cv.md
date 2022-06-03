@@ -8,6 +8,4 @@ redirect_from:
 ---
 
 
-<embed src="https://drive.google.com/file/d/1O-k6n4uLmP-HBBjGVyJsHfXW_-BC4Oeg/view?usp=sharing" 
- width="500" height="375" 
- type="application/pdf">
+<object data="../files/Tripp CV.pdf" width="1000" height="1000" type='application/pdf'></object>
