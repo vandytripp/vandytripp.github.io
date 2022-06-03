@@ -84,7 +84,7 @@ author:
   avatar           : "Tripp Headshot 2022 small.jpg"
   bio              : "Bio"
   location         : "Nashville, TN"
-  Vanderbilt       : "https://www.vanderbilt.edu/political-science/bio/alexander-tripp"
+  employer         : Vanderbilt "https://www.vanderbilt.edu/political-science/bio/alexander-tripp"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/alexander-tripp-90b394148/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
