@@ -1,14 +1,10 @@
 # main links links
-# Could also include links for "Publications" or "Portfolio" or "Blog Posts"
-#
-
 main:
   - title: "Research"
-    url: /research/  
+    url: /research/ 
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "CV"
     url: /cv/
-
