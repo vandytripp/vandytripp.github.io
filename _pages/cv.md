@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 
-{% files Tripp CV.pdf %}
+{% site.static_files Tripp CV.pdf %}
 {% endfor %}
 
