@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 
-{% site.static_files Tripp CV.pdf %}
-{% endfor %}
-
+<embed src="C:\Users\atrip\OneDrive - Vanderbilt\Desktop\GitHub\alectripp.github.io\files\Tripp CV.pdf" 
+ width="500" height="375" 
+ type="application/pdf">
