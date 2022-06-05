@@ -9,5 +9,4 @@ redirect_from:
 ---
 Description
 
-Title for 2nd section
-======
+
