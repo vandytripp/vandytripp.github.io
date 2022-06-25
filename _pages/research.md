@@ -7,7 +7,11 @@ author_profile: true
 
 ### Working Papers: 
 
+"Citizen Responses to Migrant Frames: Humanitarianism in Modern Colombia"
 
+"Municipal Spending Reallocations in Response to High Migration"
+
+"Where and How Strongly have Immigration Attitudes Decreased in Colombia since 2016?"
 
 ### Reports:
 
