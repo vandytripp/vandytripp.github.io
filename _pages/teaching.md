@@ -15,4 +15,4 @@ Intro. to Comparative Politics / Undergraduate / Teaching Assistant / Spring 202
 
 ### Resources
 
-R Resources
+Stats I Section R Resources
