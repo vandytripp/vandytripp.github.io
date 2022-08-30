@@ -15,4 +15,4 @@ Intro. to Comparative Politics / Undergraduate / Teaching Assistant / [Spring 20
 
 ### Notes and Lectures
 
-Stats I Section- [R Resources](https://github.com/vandytripp/vandytripp.github.io/blob/master/files/Stats1_R_Resources.pdf)
+Statistics I- [Resources for Learning R](https://github.com/vandytripp/vandytripp.github.io/blob/master/files/Stats1_R_Resources.pdf)
