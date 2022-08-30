@@ -13,6 +13,6 @@ Statistics I / Graduate / Recitation Lecturer and Teaching Assistant / Fall 2022
 
 Intro. to Comparative Politics / Undergraduate / Teaching Assistant / [Spring 2022 Evaluations](https://github.com/vandytripp/vandytripp.github.io/blob/master/files/2022S_Instructor_Report_PSCI_1101_01_Introduction_to_Comparative_Politics_Alexander_Tripp.pdf) 
 
-### Resources
+### Notes and Lectures
 
 Stats I Section- [R Resources](https://github.com/vandytripp/vandytripp.github.io/blob/master/files/Stats1_Section_R_Resources.pdf)
