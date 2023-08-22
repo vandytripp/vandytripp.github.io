@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello, and welcome to my site! I study political behavior with a substantive focus on immigration attitudes and a. Most of my work has a regional focus on Latin America. Currently, I am a PhD candidate in Political Science at Vanderbilt University. 
+Hello, and welcome to my site! I am a PhD candidate at Vanderbily University, and I study political behavior with a substantive focus on immigration attitudes and, more broadly, public opinion. Most of my work has a regional focus on Latin America.
 
-I approach migration as both a treatment and outcome. As a treatment, I analyze how migration flows impact municipal budget allocations. As an outcome, I study how regimes can influence attitudes toward immigrants and refugees through media framing. My dissertation is concerned with why regimes might respond to large migration flows with pro-migrant policies and how they can sustain citizen support for said policies.
+My dissertation explores how and why host populations' attitudes toward immigrants change over time, focusing on Colombia in the midst of the Venezuelan displacement crisis.
 
-I address my research questions with a variety of rigorous empirical methods, including both survey and text analyses, as well as experiments. I complement these empirical approaches with interviews, focus groups, and content analyses to produce well-rounded research on the politics of migration. 
-
-I craft my research so that it can speak to policy decisions regarding the best practices of immigrant integration and the reduction of xenophobia within host populations. 
+I address my research questions with a variety of rigorous empirical methods, including surveys, experiments, and text analyses. I complement these empirical approaches with interviews, focus groups, and content analyses to produce well-rounded research on the politics of immigration. I craft my research with  policy implications in mind, so that it can contribute to improving immigrant integration and reducing xenophobia. 
