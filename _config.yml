@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Alec Tripp"
 title_separator          : "-"
-name                     : &name "Alec Tripp"
+name                     : &name "Alexander (Alec) Tripp"
 description              : &description "Vanderbilt Political Science PhD Student Studying Immigration in Latin America"
 url                      : https://vandytripp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
