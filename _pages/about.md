@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, and welcome to my site! I am a PhD candidate at Vanderbily University, and I study political behavior with a substantive focus on immigration attitudes and, more broadly, public opinion. Most of my work has a regional focus on Latin America.
+Hello, and welcome to my site! I am a PhD candidate at Vanderbilt University, and I study political behavior with a substantive focus on immigration attitudes and, more broadly, public opinion. Most of my work has a regional focus on Latin America.
 
 My dissertation explores how and why host populations' attitudes toward immigrants change over time, focusing on Colombia in the midst of the Venezuelan displacement crisis.
 
