@@ -11,11 +11,9 @@ Shifting Responses to Immigration Crises
 
 ### Working Papers: 
 
-"National Media Responses to Immigration Crises"
+"Media Narratives and the Life Cycle of Immigration Public Opinion"
 
 "Stereotyped Subtypes: Public Opinion on Immigrants and Refugees" with Cindy Kam
-
-"Sustaining Support: The Effects of Positive Media Frames on Immigration Attitudes"
 
 ### Reports:
 

@@ -5,7 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Reports 
+### Courses Taught 
+
+Politics of Migration / Undergraduate / Teaching Assistant
 
 Statistics III- Causal Inference / Graduate / Recitation Lecturer and Teaching Assistant
 
