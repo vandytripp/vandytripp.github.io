@@ -11,9 +11,11 @@ Shifting Responses to Immigration Crises
 
 ### Working Papers: 
 
-"Benchmarking AI and Human Text Classifications in the Context of Newspaper Frames" Under Review. 
+"Benchmarking AI and Human Text Classifications in the Context of Newspaper Frames" Under Review. Read working paper [here](https://www.dropbox.com/scl/fi/d8x7zknel64rffscc8sa7/Tripp_Human_AI_Classification_Comparison_Working.pdf?rlkey=g8u314lwmp57p01xe4191pcma&st=0kbuktga&dl=0).
 
 "Media Narratives and the Life Cycle of Immigration Public Opinion"
+
+"Social Drivers of Attitudes toward Refugees" with Jennifer Larson and Janet Lewis
 
 "Stereotyped Subtypes: Public Opinion on Immigrants and Refugees" with Cindy Kam
 
