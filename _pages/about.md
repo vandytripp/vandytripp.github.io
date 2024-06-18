@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, and welcome to my site! I am a PhD candidate at Vanderbilt University, and I study public opinion with a substantive focus on attitudes toward immigrants and refugees. I also work on the flip side of this topic, investigating immigrant and refugee attitudes toward integration and remigration. Most of my research has a regional focus on Latin America, though I have ongoing projects in Uganda and the United States.
+Hello, and welcome to my site! I am a PhD candidate at Vanderbilt University, and I study public opinion with a substantive focus on attitudes toward immigrants and refugees. I also work on the flip side of this topic, investigating immigrant and refugee attitudes toward integration and remigration. Most of my research has a regional focus on Latin America, though I have additional projects in Uganda and the United States.
 
 My dissertation explores how and why individuals' views on immigration shift in response to immigration crises, focusing on the Colombian government, media, and mass public responses to the Venezuelan crisis. My expected PhD completion date is May 2025. 
 
