@@ -7,6 +7,8 @@ author_profile: true
 
 ### Courses Taught 
 
+Statistics Lab / Undergraduate / Instructor and Coordinator for Vanderbilt's [NSF Site for Accountability, Behavior, & Conflict in Democratic Politics](https://lab.vanderbilt.edu/political-science-reu/)
+
 Politics of Migration / Undergraduate / Teaching Assistant
 
 Statistics III- Causal Inference / Graduate / Recitation Lecturer and Teaching Assistant
