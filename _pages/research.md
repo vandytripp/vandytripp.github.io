@@ -7,7 +7,7 @@ author_profile: true
 
 ### Dissertation Title: 
 
-Shifting Responses to Immigration Crises
+Changing the Conversation: How Media Narratives and Personal Contact Impact Immigration Attitudes
 
 ### Working Papers: 
 
