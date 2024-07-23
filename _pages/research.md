@@ -11,7 +11,7 @@ Changing the Conversation: How Media Narratives and Personal Contact Impact Immi
 
 ### Working Papers: 
 
-"Benchmarking AI and Human Text Classifications in the Context of Newspaper Frames" Under Review. Read working paper [here](https://doi.org/10.31219/osf.io/ce7jx).
+"Benchmarking AI and Human Text Classifications in the Context of Newspaper Frames" Read working paper [here](https://doi.org/10.31219/osf.io/ce7jx).
 
 "Media Narratives in Response to Immigration Crises" Read working paper [here](https://doi.org/10.31219/osf.io/2ytxf).
 
