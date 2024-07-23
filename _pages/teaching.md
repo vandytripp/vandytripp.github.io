@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Courses Taught! 
+### Courses Taught
 
 Statistics Lab / Undergraduate / Instructor and Coordinator for Vanderbilt's [NSF Site for Accountability, Behavior, & Conflict in Democratic Politics](https://lab.vanderbilt.edu/political-science-reu/)
 
