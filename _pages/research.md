@@ -9,15 +9,20 @@ author_profile: true
 
 Changing the Conversation: How Media Narratives and Personal Contact Impact Immigration Attitudes
 
+### Publications: 
+
+"Pipeline Diversity via Career Diversity: Lessons from a Research Experience for Undergraduates
+(REU) Program" with Jennifer Barnes, Emily Ritter, Sharece Thrower, and Elizabeth Zechmeister (R&R in PS: Political Science & Politics)
+
 ### Working Papers: 
 
-"Benchmarking AI and Human Text Classifications in the Context of Newspaper Frames" Read working paper [here](https://doi.org/10.31219/osf.io/ce7jx).
+"Benchmarking AI and Human Text Classifications in the Context of Newspaper Frames: A Multi-Label LLM Classification Approach" Read working paper [here](https://doi.org/10.31219/osf.io/ce7jx).
 
-"Media Narratives in Response to Immigration Crises" Read working paper [here](https://doi.org/10.31219/osf.io/2ytxf). 
+"Media Narratives in Response to Immigration Shocks: An LLM Classification Approach" Read working paper [here](https://doi.org/10.31219/osf.io/2ytxf). 
 
 "Social Drivers of Attitudes toward Refugees" with Jennifer Larson and Janet Lewis
 
-"Stereotyped Subtypes: Public Opinion on Immigrants and Refugees" with Cindy Kam
+"Distinction without a Difference? American Public Opinion on Refugees and Immigrants" with Cindy Kam
 
 ### Reports:
 
