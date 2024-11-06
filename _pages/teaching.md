@@ -19,6 +19,8 @@ Intro. to Comparative Politics / Undergraduate / Teaching Assistant
 
 ### Reference Materials and Tutorials
 
+[Applied Statistics Crash Course with Jennifer Barnes]()
+
 [Resources for Learning R](https://github.com/vandytripp/vandytripp.github.io/blob/master/files/Stats1_R_Resources.pdf)
 
 [Short Course on Text Analysis](https://github.com/vandytripp/vandytripp.github.io/blob/master/files/Tripp_TextAnalysis_Workshop.zip)
