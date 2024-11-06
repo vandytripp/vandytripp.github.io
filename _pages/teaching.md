@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Courses Taught
+Short Course on Text Analysis / Graduate / Presenter- [access materials here](https://github.com/vandytripp/vandytripp.github.io/blob/master/files/Tripp_TextAnalysis_Workshop.zip)
 
 Statistics Lab / Undergraduate / Instructor and Coordinator for Vanderbilt's [NSF Site for Accountability, Behavior, & Conflict in Democratic Politics](https://lab.vanderbilt.edu/political-science-reu/)
 
