@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Teaching
+### Teaching:
 
 Statistics Lab / Undergraduate / Instructor and Coordinator for Vanderbilt's [NSF Site for Accountability, Behavior, & Conflict in Democratic Politics](https://lab.vanderbilt.edu/political-science-reu/)
 
@@ -17,7 +17,7 @@ Statistics I / Graduate / Recitation Lecturer and Teaching Assistant
 
 Intro. to Comparative Politics / Undergraduate / Teaching Assistant
 
-### Reference Materials and Tutorials
+### Reference Materials and Tutorials:
 
 [Applied Statistics Crash Course with Jennifer Barnes]()
 
