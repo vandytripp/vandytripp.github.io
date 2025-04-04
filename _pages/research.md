@@ -5,24 +5,19 @@ permalink: /research/
 author_profile: true
 ---
 
-### Dissertation Title: 
-
-Changing the Conversation: How Media Narratives and Personal Contact Impact Immigration Attitudes
-
 ### Publications: 
 
+"Benchmarking AI and Human Text Classifications in the Context of Newspaper Frames: A Multi-Label LLM Classification Approach." Alexander Tripp. Research & Politics. 
+
 "Pipeline Diversity via Career Diversity: Lessons from a Research Experience for Undergraduates
-(REU) Program" with Jennifer Barnes, Emily Ritter, Sharece Thrower, and Elizabeth Zechmeister (R&R in PS: Political Science & Politics)
+(REU) Program" with Jennifer Barnes, Emily Ritter, Sharece Thrower, and Elizabeth Zechmeister. PS: Political Science & Politics.
 
 ### Working Papers: 
-
-"Benchmarking AI and Human Text Classifications in the Context of Newspaper Frames: A Multi-Label LLM Classification Approach" Read working paper [here](https://doi.org/10.31219/osf.io/ce7jx).
-
-"Media Narratives in Response to Immigration Shocks: An LLM Classification Approach" Read working paper [here](https://doi.org/10.31219/osf.io/2ytxf). 
+"Issue Attention, Media Narratives, and Immigration Shocks: An LLM Classification Approach" Read working paper [here](https://doi.org/10.31219/osf.io/2ytxf). 
 
 "Social Drivers of Attitudes toward Refugees" with Jennifer Larson and Janet Lewis
 
-"Distinction without a Difference? American Public Opinion on Refugees and Immigrants" with Cindy Kam
+"Distinction Without a Difference: American Public Opinion on Immigrants and Refugees" with Cindy Kam
 
 ### Reports:
 
@@ -32,8 +27,3 @@ Corredor, Jessica, Julio Daly, Liliana Fernandez, Alexander Tripp, and Olivia Wo
 
 "Spotlight on Intentions to Emigrate" (pp. 24-25) and "Spotlight on Key Drivers of Emigration" (pp. 26-27) 
 in the [2021 LAPOP AmericasBarometer](https://www.vanderbilt.edu/lapop/ab2021/2021_LAPOP_AmericasBarometer_2021_Pulse_of_Democracy.pdf). 
-
-
-
-
-
