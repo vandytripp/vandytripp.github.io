@@ -5,6 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 
+### Working Papers:
+
+Tripp, Alexander. *Job Market Paper.* "Conditioned Contact: The Differential Impacts of Increasing Immigration on Local Public Opinion." []() 
+
+Tripp, Alexander. "Issue Attention, Media Narratives, and Immigration Shocks: An LLM Classification Approach." [https://osf.io/preprints/osf/2ytxf_v3](https://osf.io/preprints/osf/2ytxf_v3) 
+
 ### Publications: 
 
 Tripp, Alexander. 2025. "Benchmarking AI and Human Text Classifications in the Context of Newspaper Frames: A Multi-Label LLM Classification Approach." Research & Politics 12:2. [https://doi.org/10.1177/20531680251332353](https://doi.org/10.1177/20531680251332353) 
