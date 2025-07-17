@@ -5,12 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-### Working Papers:
-
-Tripp, Alexander. *Job Market Paper.* "Conditioned Contact: The Differential Impacts of Increasing Immigration on Local Public Opinion." []() 
-
-Tripp, Alexander. "Issue Attention, Media Narratives, and Immigration Shocks: An LLM Classification Approach." [https://osf.io/preprints/osf/2ytxf_v3](https://osf.io/preprints/osf/2ytxf_v3) 
-
 ### Publications: 
 
 Tripp, Alexander. 2025. "Benchmarking AI and Human Text Classifications in the Context of Newspaper Frames: A Multi-Label LLM Classification Approach." Research & Politics 12:2. [https://doi.org/10.1177/20531680251332353](https://doi.org/10.1177/20531680251332353) 
@@ -18,7 +12,9 @@ Tripp, Alexander. 2025. "Benchmarking AI and Human Text Classifications in the C
 Barnes, Jennifer, Emily Ritter, Sharece Thrower, Alexander Tripp, and Elizabeth Zechmeister. Forthcoming. "Pipeline Diversity via Career Diversity: Lessons from a Research Experience for Undergraduates (REU) Program." PS: Political Science & Politics.
 
 ### Working Papers: 
-"Issue Attention, Media Narratives, and Immigration Shocks: An LLM Classification Approach" Read working paper [here](https://doi.org/10.31219/osf.io/2ytxf). 
+Tripp, Alexander. *Job Market Paper.* "Conditioned Contact: The Differential Impacts of Increasing Immigration on Local Public Opinion." Read the working paper [here](). 
+
+"Issue Attention, Media Narratives, and Immigration Shocks: An LLM Classification Approach" Read working paper [here](https://doi.org/10.31219/osf.io/2ytxf_v3). 
 
 "Social Drivers of Attitudes toward Refugees" with Jennifer Larson and Janet Lewis
 
