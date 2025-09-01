@@ -14,4 +14,4 @@ My dissertation explores how and why individuals' views on immigration shift in 
 
 I address my research questions with a variety of empirical approaches, including surveys, experiments, multi-level models, and large language models. My recent work pushes the frontier on how to effectively employ and validate LLMs as text classification tools. I complement these empirical methods with interviews, focus groups, and content analyses to produce well-rounded research on the politics of immigration. I work with policy implications in mind, so as to contribute to host society efforts for improving immigrant integration, reducing xenophobia, and crafting sustainable approaches to the reception of immigrants. 
 
-I am an affiliate of Vanderbilt's CSDI, LAPOP, ROCCA, and RIPS labs. In 2020, I graduated with a B.A. in Political Science from the University of Tennessee at Knoxville. 
+I am an affiliate of Vanderbilt's CSDI, ROCCA, and RIPS labs, as well as the Center for Global Democracy. In 2020, I graduated with a B.A. in Political Science from the University of Tennessee at Knoxville. 
