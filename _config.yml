@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alec Tripp"
 title_separator          : "-"
 name                     : &name "Alexander (Alec) Tripp"
-description              : &description "Vanderbilt Political Science PhD Candidate Studying Immigration Attitudes in Latin America"
+description              : &description "Vanderbilt Political Science PhD Candidate"
 url                      : https://vandytripp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vandytripp/vandytripp.github.io"
@@ -86,8 +86,8 @@ author:
   location         : "Nashville, TN"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "alexander.j.tripp@vanderbilt.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=ZUQF1dAAAAAJ&hl=en&oi=sra"
+  email            : "atripp97@comcast.net"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
