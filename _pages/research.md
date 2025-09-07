@@ -9,7 +9,7 @@ author_profile: true
 
 Tripp, Alexander. 2025. "Benchmarking AI and Human Text Classifications in the Context of Newspaper Frames: A Multi-Label LLM Classification Approach." Research & Politics 12:2. [https://doi.org/10.1177/20531680251332353](https://doi.org/10.1177/20531680251332353) 
 
-Barnes, Jennifer, Emily Ritter, Sharece Thrower, Alexander Tripp, and Elizabeth Zechmeister. Forthcoming. "Pipeline Diversity via Career Diversity: Lessons from a Research Experience for Undergraduates (REU) Program." PS: Political Science & Politics.
+Barnes, Jennifer, Emily Ritter, Sharece Thrower, Alexander Tripp, and Elizabeth Zechmeister. 2025. "Pipeline Diversity via Career Diversity: Lessons from a Research Experience for Undergraduates (REU) Program." PS: Political Science & Politics: 1-6. [https://doi.org/10.1017/S1049096525101170](https://doi.org/10.1017/S1049096525101170)
 
 ### Working Papers: 
 Tripp, Alexander. *Job Market Paper.* "Conditioned Contact: The Differential Impacts of Increasing Immigration on Local Public Opinion." Read the working paper [here](). 
