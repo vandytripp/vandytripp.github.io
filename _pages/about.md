@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello, and welcome to my site! I am a political scientist and migration scholar. Currently, I am a doctoral candidate (ABD) in Political Science at Vanderbilt University. I study political behavior with a substantive focus on immigration attitudes and a regional focus on Latin America.
+Hello, and welcome to my site! I am a PhD candidate at Vanderbilt University, and I study public opinion with a substantive focus on attitudes toward immigrants and refugees. I also work on the flip side of this topic, investigating immigrant and refugee attitudes toward integration and remigration. Most of my research has a regional focus on Latin America, though I have additional projects in Uganda and the United States.
 
-I approach migration as both a treatment and outcome. As a treatment, I analyze how migration flows impact municipal budget allocations. As an outcome, I study how regimes can influence attitudes toward immigrants and refugees through media framing. My dissertation is concerned with why regimes might respond to large migration flows with pro-migrant policies and how they can sustain citizen support for said policies.
+My dissertation explores how and why individuals' views on immigration shift in response to immigration shocks, focusing on the Colombian government, media, and mass public responses to recent Venezuelan immigration.  
 
-I address my research questions with a variety of rigorous empirical methods, including survey experiments, natural experiments, and text analysis. I complement these empirics with interviews, focus groups, and content analyses to produce well-rounded research on the politics of migration. 
+I address my research questions with a variety of empirical approaches, including surveys, experiments, multi-level models, and large language models. My recent work pushes the frontier on how to effectively employ and validate LLMs as text classification tools. I complement these empirical methods with interviews, focus groups, and content analyses to produce well-rounded research on the politics of immigration. I work with policy implications in mind, so as to contribute to host society efforts for improving immigrant integration, reducing xenophobia, and crafting sustainable approaches to the reception of immigrants. 
 
-I craft my research so that it can speak to policy decisions regarding the best practices of immigrant integration and reducing xenophobia in host populations. 
+I am an affiliate of Vanderbilt's CSDI, ROCCA, and RIPS labs, as well as the Center for Global Democracy. In 2020, I graduated with a B.A. in Political Science from the University of Tennessee at Knoxville. 

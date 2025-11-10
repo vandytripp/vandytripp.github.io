@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Alec Tripp"
 title_separator          : "-"
-name                     : &name "Alec Tripp"
-description              : &description "Vanderbilt Political Science PhD Student Studying Immigration in Latin America"
+name                     : &name "Alexander (Alec) Tripp"
+description              : &description "Vanderbilt Political Science PhD Candidate"
 url                      : https://vandytripp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vandytripp/vandytripp.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alec Tripp"
-  avatar           : "Tripp Headshot 2022 small.jpg"
-  bio              : "PhD Student in Political Science at Vanderbilt University"
+  name             : "Alexander (Alec) Tripp"
+  avatar           : "Tripp Headshot 2024.jpg"
+  bio              : "PhD Candidate in Political Science at Vanderbilt University"
   location         : "Nashville, TN"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "alexander.j.tripp@vanderbilt.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=ZUQF1dAAAAAJ&hl=en&oi=sra"
+  email            : "atripp97@comcast.net"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/vandytripp"
+  github           : "vandytripp"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/alexander-tripp-90b394148/"
+  linkedin         : "alexander-tripp-90b394148"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
