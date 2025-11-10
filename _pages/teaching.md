@@ -21,6 +21,8 @@ Intro. to Comparative Politics / Undergraduate / Teaching Assistant
 
 ### Reference Materials and Tutorials:
 
+[NSF REU Course on Statistical Programming in R](https://019a657c-dd8b-09db-e580-7ba726e423d4.share.connect.posit.cloud/)
+
 [Resources for Learning R](https://github.com/vandytripp/vandytripp.github.io/blob/master/files/Stats1_R_Resources.pdf)
 
 [Short Course on Text Analysis](https://github.com/vandytripp/vandytripp.github.io/blob/master/files/Tripp_TextAnalysis_Workshop.zip)
