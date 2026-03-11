@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Alec Tripp"
 title_separator          : "-"
-name                     : &name "Alexander (Alec) Tripp"
+name                     : &name "Alexander (Alec) Tripp, Ph.D."
 description              : &description "Vanderbilt Political Science PhD Candidate"
 url                      : https://vandytripp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alexander (Alec) Tripp"
+  name             : "Alexander (Alec) Tripp, Ph.D."
   avatar           : "Tripp Headshot 2024.jpg"
   bio              : "Research Manager at YouGov"
   location         : "Nashville, TN"
